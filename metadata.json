@@ -1,0 +1,6 @@
+{
+  "name": "تحدي تشريح جدار البطن | شتت شتت ليك",
+  "description": "كويز تفاعلي ترفيهي لمادة تشريح جدار البطن ومناطقه التسعة، مع تعزيز فوري: شتت شتت ليك😹🫡 للإجابة الصحيحة، وقوم لف🤐🥴 للإجابة الخاطئة!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
